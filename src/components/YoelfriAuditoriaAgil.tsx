@@ -28,12 +28,17 @@ import {
   FolderOpen,
   Folder,
   Scale,
-  Trash2
+  Trash2,
+  BookOpen,
+  Key,
+  RefreshCw,
+  Server
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { MasterCase, ForensicFinding, DigitalCustody } from '../types';
 import { ForensicFindingsDashboard } from './ForensicFindingsDashboard';
 import { ForensicEvidenceDossierManager } from './ForensicEvidenceDossierManager';
+import { ForensicSystemSecurityAndGuides } from './ForensicSystemSecurityAndGuides';
 import {
   generateAutomaticEvidenceFolderPath,
   generateEvidenceCode,
