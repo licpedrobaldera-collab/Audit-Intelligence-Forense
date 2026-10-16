@@ -1,0 +1,6 @@
+{
+  "name": "Audit Intelligence USA - Trial & Forensic Portal",
+  "description": "Sistema de prueba gratuita por 3 días para auditoría forense con control de accesos, análisis financiero y exportación de archivos ZIP para audit-intelligence-usa.com/trial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
